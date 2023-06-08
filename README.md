@@ -1,0 +1,2 @@
+# wasterepo
+for practice purpose
